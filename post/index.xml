@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Epi-rgee</title>
+    <link>https://botam2.github.io/app_test/post/</link>
+    <description>Recent content in Posts on Epi-rgee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, antony barja and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://botam2.github.io/app_test/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.Introduction to Google Earth Engine</title>
+      <link>https://botam2.github.io/app_test/post/01_introduction/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://botam2.github.io/app_test/post/01_introduction/</guid>
+      <description>
+        
+          
+            R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com. You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>2.Google Earth Engine for R</title>
+      <link>https://botam2.github.io/app_test/post/02_gee_for_r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://botam2.github.io/app_test/post/02_gee_for_r/</guid>
+      <description>
+        
+          
+            R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com. You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>3.Integration of rgee with r-spatial ecosystem</title>
+      <link>https://botam2.github.io/app_test/post/03_rgee-rspatial/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://botam2.github.io/app_test/post/03_rgee-rspatial/</guid>
+      <description>
+        
+          
+            R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>4.Integration of rgeeExtra with rgee</title>
+      <link>https://botam2.github.io/app_test/post/04_rgeeextra/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://botam2.github.io/app_test/post/04_rgeeextra/</guid>
+      <description>
+        
+          
+            R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>5.Applications in epidemiology</title>
+      <link>https://botam2.github.io/app_test/post/05_aplication/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://botam2.github.io/app_test/post/05_aplication/</guid>
+      <description>
+        
+          
+            R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

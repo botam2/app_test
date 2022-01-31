@@ -1,0 +1,60 @@
+---
+author: Gabriel Carrasco y Antony Barja
+date: 'r Sys.Date()'
+description: Steps for the installation of rgee in your System Operative.
+tags:
+- installation
+thumbnail: images/dollar.png
+title: Installation of rgee
+---
+
+In this post, you going to learn to install rgee in the different Operative Systems steps by steps. Remind is necessary to have install R, Rtools and Rstudio in your desktop, here in the following video show the steps to be taken for a proper installation. 
+
+**Observation:**
+- *Rtools only is necesarry for the Operative Systen Windows.*
+
+<center><iframe width="90%" height="350" src="https://www.youtube.com/embed/h2IPWVXaUuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+</br>
+
+### 🔴 1. Instalacion in a Linux distrubution
+
+For a distribution like Ubuntu and theirs derivatives is necesarry to have set-up and installed some dependences of spatial libs our Operative System. The following bash commands should install key geographic R packages on Ubuntu 20.10.
+
+```
+# install system dependencies:
+sudo apt install libudunits2-dev libgdal-dev libgeos-dev libproj-dev libfontconfig1-dev libjq-dev libprotobuf-dev protobuf-compiler
+
+# binary versions of key R packages:
+sudo apt install r-cran-rgee r-cran-geojsonio
+```
+For a distribution like manajaro, archilinux o derivatives, the installation is using the following bash commands
+
+```
+# install system dependencies:
+sudo pacman -S gcc-fortan gdal proj geos
+git clone https://aur.acrhlinux.org/udunits.git
+cd udunits
+makepkg -si
+R
+```
+
+```
+# install of rgee:
+install.packages("rgee")
+install.packages("geojsonio")
+```
+
+#### Set-up of rgee and register of credentiales in your desktop
+
+
+
+
+
+### 🔴 2. Instalacion on Windows
+
+
+
+
+
+

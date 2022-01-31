@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demos on Epi-rgee</title>
+    <link>https://botam2.github.io/app_test/demos/</link>
+    <description>Recent content in Demos on Epi-rgee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, antony barja and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://botam2.github.io/app_test/demos/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
